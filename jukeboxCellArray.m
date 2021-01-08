@@ -1,7 +1,7 @@
 % Jacob Gerlach
 % jwgerlac@ncsu.edu
 % 9/9/2020
-% jukebox_GERLACH.m
+% jukeboxCellArray.m
 %
 % virtual jukebox with song selection
 
